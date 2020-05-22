@@ -11,3 +11,6 @@ https://github.com/07Shubh/Udacity-Data-Analytics-Nanodegree-Projects/tree/maste
 
 #### 4. Project-4: Data visualization (Visualizing more deeply)
 https://github.com/07Shubh/Udacity-Data-Analytics-Nanodegree-Projects/tree/master/Data%20Visualization
+
+#### 5. Project-5: AB-Testing in a Dataset
+https://github.com/07Shubh/Udacity-Data-Analytics-Nanodegree-Projects/tree/master/AB-testing
